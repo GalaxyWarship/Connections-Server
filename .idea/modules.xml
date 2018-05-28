@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WebRTCJavaServer.iml" filepath="$PROJECT_DIR$/WebRTCJavaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apiserver/apiserver.iml" filepath="$PROJECT_DIR$/apiserver/apiserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/server/server.iml" filepath="$PROJECT_DIR$/server/server.iml" />
     </modules>
