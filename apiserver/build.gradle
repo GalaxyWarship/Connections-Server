@@ -3,6 +3,7 @@ apply plugin: 'java-library'
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.sparkjava:spark-core:2.7.1'
+    compile 'redis.clients:jedis:2.8.1'
 }
 
 sourceCompatibility = "1.7"
